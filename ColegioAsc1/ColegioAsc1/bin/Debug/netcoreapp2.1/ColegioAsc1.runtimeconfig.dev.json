@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\leova\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\leova\\.nuget\\packages"
+    ]
+  }
+}

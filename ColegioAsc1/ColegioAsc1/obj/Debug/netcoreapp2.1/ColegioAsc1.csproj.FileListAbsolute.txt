@@ -1,0 +1,16 @@
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\obj\Debug\netcoreapp2.1\ColegioAsc1.csprojAssemblyReference.cache
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\obj\Debug\netcoreapp2.1\ColegioAsc1.RazorAssemblyInfo.cache
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\obj\Debug\netcoreapp2.1\ColegioAsc1.RazorAssemblyInfo.cs
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\obj\Debug\netcoreapp2.1\ColegioAsc1.AssemblyInfoInputs.cache
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\obj\Debug\netcoreapp2.1\ColegioAsc1.AssemblyInfo.cs
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\bin\Debug\netcoreapp2.1\ColegioAsc1.deps.json
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\bin\Debug\netcoreapp2.1\ColegioAsc1.runtimeconfig.json
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\bin\Debug\netcoreapp2.1\ColegioAsc1.runtimeconfig.dev.json
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\bin\Debug\netcoreapp2.1\ColegioAsc1.dll
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\obj\Debug\netcoreapp2.1\ColegioAsc1.RazorTargetAssemblyInfo.cache
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\bin\Debug\netcoreapp2.1\ColegioAsc1.pdb
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\obj\Debug\netcoreapp2.1\ColegioAsc1.dll
+C:\Users\leova\source\repos\ColegioAsc1\ColegioAsc1\obj\Debug\netcoreapp2.1\ColegioAsc1.pdb
